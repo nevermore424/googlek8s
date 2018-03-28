@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-apiserver-amd64:v1.9.6
+FROM gcr.io/google_containers/etcd-amd64:3.1.11
 MAINTAINER f563760203@163.com
