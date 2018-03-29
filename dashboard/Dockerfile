@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-proxy-amd64:v1.9.6
+FROM quay.io/calico/node:v3.0.4
 MAINTAINER f563760203@163.com
