@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.7
+FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.9.6
 MAINTAINER f563760203@163.com
