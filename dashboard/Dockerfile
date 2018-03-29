@@ -1,2 +1,2 @@
-FROM quay.io/calico/node:v3.0.4
+FROM gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.14.7
 MAINTAINER f563760203@163.com
